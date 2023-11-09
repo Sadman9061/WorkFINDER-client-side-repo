@@ -50,7 +50,7 @@ const Footer = () => {
 
 Create Navbar Component:
 
-Footer Component: Develop the footer component.
+
 
 Basic Homepage Layout: Set up a basic layout for the homepage.
 

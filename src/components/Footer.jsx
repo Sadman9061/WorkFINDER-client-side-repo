@@ -78,7 +78,7 @@ My Jobs Page: .
 
 Applied Jobs Page: .
 
-Responsive Design: Make the website mobile and desktop responsive.
+Responsive Design:.
 
 Final Styling and Refinement: Perform final styling and refinement, ensuring everything looks polished.
 

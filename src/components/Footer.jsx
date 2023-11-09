@@ -72,7 +72,7 @@ All Jobs Page: .
 
 Single Job Details Page:.
 
-Add A Job Page: Create the layout and components for adding a job.
+Add A Job Page: .
 
 My Jobs Page: Develop the "My Jobs" page layout and components.
 

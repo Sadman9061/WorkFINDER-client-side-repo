@@ -48,7 +48,7 @@ const Footer = () => {
             </footer>
                 {/* <p>Initial Commit: 
 
-Create Navbar Component: Implement the navigation bar component.
+Create Navbar Component:
 
 Footer Component: Develop the footer component.
 

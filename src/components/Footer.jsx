@@ -58,7 +58,7 @@ Homepage Banner: .
 
 Homepage Tab System:.
 
-Homepage Job Listings: Populate the job listings within each tab.
+Homepage Job Listings: .
 
 User Authentication Components: Start implementing components for user registration and login.
 

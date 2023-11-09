@@ -52,7 +52,7 @@ Create Navbar Component:
 
 
 
-Basic Homepage Layout: Set up a basic layout for the homepage.
+Basic Homepage Layout: .
 
 Homepage Banner: Add a banner section to the homepage.
 

@@ -70,7 +70,7 @@ Blog Page:.
 
 All Jobs Page: .
 
-Single Job Details Page: Implement the single job details page layout.
+Single Job Details Page:.
 
 Add A Job Page: Create the layout and components for adding a job.
 

@@ -74,7 +74,7 @@ Single Job Details Page:.
 
 Add A Job Page: .
 
-My Jobs Page: Develop the "My Jobs" page layout and components.
+My Jobs Page: .
 
 Applied Jobs Page: Set up the "Applied Jobs" page layout and filter system.
 

@@ -66,7 +66,7 @@ Homepage Styling: .
 
 Error Handling: .
 
-Blog Page: Create the structure and components for the blog page.
+Blog Page:.
 
 All Jobs Page: Develop the "All Jobs" page layout and components.
 

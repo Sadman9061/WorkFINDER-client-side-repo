@@ -56,7 +56,7 @@ Basic Homepage Layout: .
 
 Homepage Banner: .
 
-Homepage Tab System: Create the tab system for job categories on the homepage.
+Homepage Tab System:.
 
 Homepage Job Listings: Populate the job listings within each tab.
 

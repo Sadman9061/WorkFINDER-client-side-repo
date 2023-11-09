@@ -76,7 +76,7 @@ Add A Job Page: .
 
 My Jobs Page: .
 
-Applied Jobs Page: Set up the "Applied Jobs" page layout and filter system.
+Applied Jobs Page: .
 
 Responsive Design: Make the website mobile and desktop responsive.
 

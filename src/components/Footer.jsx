@@ -62,7 +62,7 @@ Homepage Job Listings: .
 
 User Authentication Components: .
 
-Homepage Styling: Apply styling to the homepage to make it visually appealing.
+Homepage Styling: .
 
 Error Handling: Introduce error handling for login and registration components.
 

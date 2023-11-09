@@ -60,7 +60,7 @@ Homepage Tab System:.
 
 Homepage Job Listings: .
 
-User Authentication Components: Start implementing components for user registration and login.
+User Authentication Components: .
 
 Homepage Styling: Apply styling to the homepage to make it visually appealing.
 

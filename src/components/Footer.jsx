@@ -54,7 +54,7 @@ Create Navbar Component:
 
 Basic Homepage Layout: .
 
-Homepage Banner: Add a banner section to the homepage.
+Homepage Banner: .
 
 Homepage Tab System: Create the tab system for job categories on the homepage.
 

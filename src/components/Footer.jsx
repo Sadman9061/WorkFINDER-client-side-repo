@@ -64,7 +64,7 @@ User Authentication Components: .
 
 Homepage Styling: .
 
-Error Handling: Introduce error handling for login and registration components.
+Error Handling: .
 
 Blog Page: Create the structure and components for the blog page.
 

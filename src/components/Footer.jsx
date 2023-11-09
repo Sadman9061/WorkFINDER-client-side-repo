@@ -68,7 +68,7 @@ Error Handling: .
 
 Blog Page:.
 
-All Jobs Page: Develop the "All Jobs" page layout and components.
+All Jobs Page: .
 
 Single Job Details Page: Implement the single job details page layout.
 

@@ -6,33 +6,33 @@ const WhyChooseUs = () => {
             {/* job seekers */}
             <div className="flex flex-col-reverse lg:flex-row-reverse items-center justify-between">
                 <div className="max-w-md ml-0 lg:ml-20 space-y-8">
-                    <p className="font-medium text-gray-500 text-lg">GOT TALENT?</p>
+                    <p className="font-medium  text-lg">GOT TALENT?</p>
                     <h1 className="font-semibold text-5xl">
                         Why job seekers love us
                     </h1>
                     <div className='flex items-center space-x-4'>
                         <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d71287fab77e63b3_Star.svg" alt="" />
-                        <p className="text-black text-base">
+                        <p className=" ">
                             Unique jobs at startups and tech companies you can't find anywhere else
                         </p>
                     </div>
                     <div className='flex items-center space-x-4'>
                         <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d7128775587e63ec_Click.svg" alt="" />
-                        <p className="text-black text-base">
+                        <p className=" ">
                             Say goodbye to cover letters - your profile is all you need. One click to apply and you're done.
 
                         </p>
                     </div>
                     <div className='flex items-center space-x-4'>
                         <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d71287515d7e63b2_List.svg" alt="" />
-                        <p className="text-black text-base">
+                        <p className=" ">
                             Everything you need to know to job search - including seeing salary and stock options upfront when looking
 
                         </p>
                     </div>
                    <div className='flex items-center space-x-4'>
                    <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d71287b6b07e63ed_Connect.svg" alt="" />
-                    <p className="text-black text-base">
+                    <p className=" ">
                         Connect directly with founders at top startups - no third party recruiters allowed
 
                     </p>
@@ -59,33 +59,33 @@ const WhyChooseUs = () => {
 
             <div className="flex flex-col-reverse lg:flex-row items-center justify-between">
                 <div className="max-w-md mr-0 lg:mr-20 space-y-8">
-                    <p className="font-medium text-gray-500 text-lg">NEED TALENT?</p>
+                    <p className="font-medium  text-lg">NEED TALENT?</p>
                     <h1 className="font-semibold text-5xl">
                     Why recruiters love us
                     </h1>
                     <div className='flex items-center space-x-4'>
                         <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d7128716b37e63bb_Team.svg" alt="" />
-                        <p className="text-black text-base">
+                        <p className=" ">
                         8 million responsive and startup-ready candidates, with all the information you need to vet them
                         </p>
                     </div>
                     <div className='flex items-center space-x-4'>
                         <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d7128708fd7e63b6_Settings.svg" alt="" />
-                        <p className="text-black text-base">
+                        <p className=" ">
                         Everything you need to kickstart your recruiting - get job posts, company branding, and HR tools set up within 10 minutes, for free
 
                         </p>
                     </div>
                     <div className='flex items-center space-x-4'>
                         <img src="https://assets-global.website-files.com/636dd759d71287e8ac7e6280/636dd759d71287316a7e63c1_Template.svg" alt="" />
-                        <p className="text-black text-base">
+                        <p className=" ">
                         A free applicant tracking system, or free integration with any ATS you may already use
 
                         </p>
                     </div>
                    <div >
                    
-                    <p className="text-black text-base">
+                    <p className=" ">
                     Plus, we can do the vetting for you! With Curated, we review the world's top tech talent and highlight candidates directly to you 2x a week.
 
 

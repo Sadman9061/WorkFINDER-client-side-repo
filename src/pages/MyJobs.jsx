@@ -24,12 +24,12 @@ const MyJobs = () => {
                <title>WorkFINDER | My Jobs</title>
                
            </Helmet>
-        <h2 className="text-3xl text-[#362929] font-bold text-center my-20"> My Jobs: {myJobsInfo.length}</h2>
-        <div className="overflow-x-auto w-full border rounded-lg p-3 border-[#362929] shadow-xl">
+        <h2 className="text-3xl  font-bold text-center my-20"> My Jobs: {myJobsInfo.length}</h2>
+        <div className="overflow-x-auto w-full border rounded-lg p-3  shadow-xl">
             <table className="table w-full">
                 {/* head */}
                 <thead>
-                    <tr className="text-[#362929]">
+                    <tr className="">
                         
                         <th>Image</th>
                         <th>Title</th>

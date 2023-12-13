@@ -47,13 +47,13 @@ const AddAJob = () => {
             })
     }
     return (
-        <div className="bg-[#cebfbf] p-5 md:p-28">
+        <div className=" p-5 md:p-28">
              <Helmet>
                
                <title>WorkFINDER | Add A Job</title>
                
            </Helmet>
-            <h2 className="mt-20 md:mt-0 text-center bg-gradient-to-l from-[#362929] to-[#5a3535] mb-10  bg-clip-text text-transparent   text-4xl font-bold">Create A Job</h2>
+            <h2 className="mt-20 md:mt-0 text-center  mb-10  bg-clip-text text-transparent   text-4xl font-bold">Create A Job</h2>
             <form onSubmit={handleAddProduct}>
                 {/* form name and quantity row */}
                 <div className="md:flex mb-10 gap-10  ">
@@ -166,7 +166,7 @@ const AddAJob = () => {
 
 
 
-                <input type="submit" value="Add Coffee" className=" shadow-2xl form-control block w-full select-none mt-9 py-3 px-6 text-center align-middle font-sans text-xs font-bold    shadow-[#5a3535] transition-all hover:shadow-lg hover:shadow-[#5a3535] active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none btn btn-primary bg-gradient-to-l from-[#362929] to-[#5a3535] hover:from-[#ff6d2a] hover:to-[#e64146] border-none rounded-lg text-white   normal-case " />
+                <input type="submit" value="Add Coffee" className="interactable shadow-2xl form-control block w-full select-none mt-9 py-3 px-6 text-center align-middle font-sans text-xs font-bold    shadow-[#5a3535] transition-all hover:shadow-lg hover:shadow-[#5a3535] active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none btn btn-primary bg-gradient-to-l from-[#362929] to-[#5a3535] hover:from-[#ff6d2a] hover:to-[#e64146] border-none rounded-lg text-white   normal-case " />
 
             </form>
         </div>

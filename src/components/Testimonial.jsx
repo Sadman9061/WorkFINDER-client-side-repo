@@ -5,7 +5,7 @@ const Testimonial = () => {
         <div className="mx-6 md:mx-14 lg:mx-28 mb-20">
             <div className="flex justify-center mt-48 mb-28 ">
                 <div className="space-y-7 text-center">
-                    <h1 className="text-black text-lg font-semibold tracking-widest">DON'T JUST TAKE IT FROM US </h1>
+                    <h1 className=" text-lg font-semibold tracking-widest">DON'T JUST TAKE IT FROM US </h1>
                     <h1 className="text-4xl font-bold">From our users </h1>
                 </div>
             </div>

@@ -58,7 +58,7 @@ const Update = () => {
                <title>WorkFINDER | Update</title>
                
            </Helmet>
-        <h2 className="mt-20 md:mt-0 text-center bg-gradient-to-l from-[#362929] to-[#5a3535] mb-10  bg-clip-text text-transparent   text-4xl font-bold">Create A Job</h2>
+        <h2 className="mt-20 md:mt-0 text-center bg-gradient-to-l from-[#362929] to-[#5a3535] mb-10  bg-clip-text text-transparent   text-4xl font-bold">Update {updateJobs?.jobTitle}</h2>
         <form onSubmit={handleUpdateJob}>
             {/* form name and quantity row */}
             <div className="md:flex mb-10 gap-10  ">

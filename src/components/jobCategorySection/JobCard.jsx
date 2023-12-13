@@ -6,7 +6,7 @@ const JobCard = ({ job }) => {
         <div className='mb-10 border p-3 md:p-10 space-y-2 shadow-lg'>
             <div className='flex justify-between flex-wrap items-center space-y-2'>
                 <div>
-                    <span className='text-2xl text-[#5a3535] font-semibold'>{job.jobTitle}</span>
+                    <span className='text-2xl  font-semibold'>{job.jobTitle}</span>
                 </div>
                 <div>
                     {job.employer}
@@ -14,10 +14,10 @@ const JobCard = ({ job }) => {
             </div>
             <div className='flex justify-between flex-wrap items-center space-y-2 '>
                 <div>
-                   <span className='text-[#5a3535]'> Posting Date : </span>{job.postingDate}
+                   <span className=''> Posting Date : </span>{job.postingDate}
                 </div>
                 <div>
-                <span className='text-[#5a3535]'> Deadline : </span> {job.applicationDeadline}
+                <span className=''> Deadline : </span> {job.applicationDeadline}
                 </div>
             </div>
 

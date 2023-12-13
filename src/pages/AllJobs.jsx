@@ -62,14 +62,14 @@ const AllJobs = () => {
                         />
                         <input
                             type="submit"
-                            className="form-control block w-1/4 select-none  py-3 px-6 text-center align-middle font-sans text-xs font-bold   shadow-xl transition-all hover:shadow-2xl  active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none btn  bg-gradient-to-l from-[#5a3535] to-[#362929] hover:from-[#ff6d2a] hover:to-[#e64146] border-none rounded-l-none  text-white   normal-case rounded-r-lg"
+                            className="form-control block w-1/4 select-none interactable  py-3 px-6 text-center align-middle font-sans text-xs font-bold   shadow-xl transition-all hover:shadow-2xl  active:opacity-[0.85] disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none btn  bg-gradient-to-l from-[#5a3535] to-[#362929] hover:from-[#ff6d2a] hover:to-[#e64146] border-none rounded-l-none  text-white   normal-case rounded-r-lg"
                             value="Search"
                         />
                     </form>
                 </div>
 
                 <div className='flex justify-center'>
-                    <TabList className={`flex flex-wrap gap-20 border-2 rounded-lg px-5 py-2 `}>
+                    <TabList className={`flex flex-wrap gap-20 border-2 rounded-lg px-5 py-2 interactable`}>
                         <Tab className={`${activeTab === 0 ? 'text-red-500 border-red-500 font-medium underline   ' : ''}`}>All Jobs</Tab>
                         <Tab className={`${activeTab === 1 ? 'text-red-500 border-red-500 font-medium underline  ' : ''}`}>Remote</Tab>
                         <Tab className={`${activeTab === 2 ? 'text-red-500 border-red-500  font-medium underline ' : ''}`}>On Site</Tab>

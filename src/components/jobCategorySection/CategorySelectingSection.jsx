@@ -27,7 +27,7 @@ const CategorySelectingSection = () => {
 
       <Tabs selectedIndex={activeTab} onSelect={handleTabSelect}>
         <div className='flex justify-center'>
-          <TabList className={`flex flex-wrap gap-20 border-2 rounded-lg px-5 py-2 mb-20`}>
+          <TabList className={`flex flex-wrap gap-20 border-2 rounded-lg px-5 py-2 mb-20 interactable`}>
             <Tab className={`${activeTab === 0 ?'text-red-500 border-red-500 font-medium underline   ' :''}`}>All Jobs</Tab>
             <Tab className={`${activeTab === 1 ?'text-red-500 border-red-500 font-medium underline  ' :''}`}>Remote</Tab>
             <Tab className={`${activeTab ===2 ?'text-red-500 border-red-500  font-medium underline ' :''}`}>On Site</Tab>
